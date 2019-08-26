@@ -8,5 +8,5 @@
 
 
 ## Exercise 2:
-- Take the 4 csv files inside of `raw_grades` and produce a single dataframe.
- 
+- Make 4 dataframes from the 4 csv files inside of `raw_grades`.
+
